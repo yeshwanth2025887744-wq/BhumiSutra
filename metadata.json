@@ -1,0 +1,6 @@
+{
+  "name": "BhoomiVirasat - Land Record Parser & Legal Succession Portal",
+  "description": "AI-powered Indian land revenue assistant for RTC/Pahani extraction, Hindu Succession Act inheritance analysis, Taluk office mutation checklists, and legal petition preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
